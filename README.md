@@ -38,7 +38,7 @@ Follow these steps to get the project up and running on your local machine:
    Clone the repository using git:
 
    ```bash
-   git clone https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce/tree/data-visualization.git
+   [git clone https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce/tree/data-visualization.git](https://github.com/Jagan-20X4/Data-Analytics-Brazilian-Ecommerce.git)
    ```
 
 2. **Set up a virtual environment** (Optional)
@@ -61,14 +61,6 @@ Follow these steps to get the project up and running on your local machine:
 
    ```ls
    source env/bin/activate
-   ```
-
-3. **Install the dependencies**
-
-   Navigate to the project directory and install the required packages using pip:
-
-   ```bash
-   pip install -r requirements.txt
    ```
 
 4. **Run the project**
