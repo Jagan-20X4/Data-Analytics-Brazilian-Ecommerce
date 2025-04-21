@@ -23,7 +23,7 @@ Follow these steps to get the project up and running on your local machine:
    Clone the repository using git:
 
    ```bash
-   [git clone (https://github.com/Jagan-20X4/Data-Analytics-Brazilian-Ecommerce.git)
+   https://github.com/Jagan-20X4/Data-Analytics-Brazilian-Ecommerce.git
    ```
 
 2. **Set up a virtual environment** (Optional)
